@@ -1,0 +1,19 @@
+{
+    "name": "renewable-load",
+    "version": "1.0.0",
+    "description": "",
+    "main": "Re-upload.cjs",
+    "scripts": {
+        "start": "Re-upload.cjs",
+        "dev": "nodemon Re-upload.cjs"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "node-deb": "^0.10.7",
+        "node-static": "^0.7.11",
+        "nodemon": "^2.0.12",
+        "ws": "^8.2.1"
+    }
+}
